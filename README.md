@@ -6,8 +6,9 @@ Exercicios aula algoritmos
 Faça um algoritmo que solicita ao usuário um número real e exibe na tela a metade do
 número digitado.
 
-#include <stdio.h>
-int main() {
+    #include <stdio.h>
+    
+    int main() {
 
     float numero, metadeNumero;
 
@@ -21,8 +22,8 @@ int main() {
 #ex2:
 Faça um algoritmo que solicite ao usuário um valor e exiba o dobro do valor.
 
-#include <stdio.h>
-int main() {
+    #include <stdio.h>
+        int main() {
 
     float numero, doubleNumero;
 
